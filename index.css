@@ -7,6 +7,27 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.container {
+    width: 1000px;
+    margin: auto;
+}
+
 h1 {
     text-align: center;
+    margin-top: 10px;
+}
+
+hr {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.avatar {
+    float: left;
+    margin-right: 50px;
+}
+
+.avatar img {
+    width: 160px;
+    height: 200px;
 }
